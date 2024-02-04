@@ -20,31 +20,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Einstein ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto busca utilizar plataformas de IA Generativa para criar uma animação de Albert Einstein explicando alguns de seus conceitos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram utilizados o ChatGPT, Bard, LeonardoIA, Eleven Labs e DI-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramentamente foi criado o conteúdo do roteiro dentro do ChatGPT e Bard, após a revisão do texto, foi criado uma imagem semelhante ao físico Albert Einstein no Leonardo AI. Depois disso, o texto foi narrado via ELeven labs. e por fim, no DI-ID, foi feito a junção do texto narrado com a imagem animada via Inteligencia Artificial.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
